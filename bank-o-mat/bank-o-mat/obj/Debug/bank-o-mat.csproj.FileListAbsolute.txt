@@ -1,0 +1,6 @@
+D:\Zbikowski-Pawel\odrabioanie\bank-o-mat\bank-o-mat\bin\Debug\bank-o-mat.exe.config
+D:\Zbikowski-Pawel\odrabioanie\bank-o-mat\bank-o-mat\bin\Debug\bank-o-mat.exe
+D:\Zbikowski-Pawel\odrabioanie\bank-o-mat\bank-o-mat\bin\Debug\bank-o-mat.pdb
+D:\Zbikowski-Pawel\odrabioanie\bank-o-mat\bank-o-mat\obj\Debug\bank-o-mat.csprojResolveAssemblyReference.cache
+D:\Zbikowski-Pawel\odrabioanie\bank-o-mat\bank-o-mat\obj\Debug\bank-o-mat.exe
+D:\Zbikowski-Pawel\odrabioanie\bank-o-mat\bank-o-mat\obj\Debug\bank-o-mat.pdb
